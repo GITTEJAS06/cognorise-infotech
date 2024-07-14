@@ -9,7 +9,7 @@
 5. Password Display: Shows the generated password.
 
 # Task 4:-  Hangman game
-#--------------------------------------------------------------------------------------------------------------
+
 # Hangman Game Features
 
 1. Word Selection: Randomly selects a word from a predefined list.
@@ -22,7 +22,7 @@
 8. Replay Option: Prompts the player to play again after each game.
 
 # Task 7:-  QR code Encoder/decoder
-#--------------------------------------------------------------------------------------------------------------
+
 ### QR Code Generator Features
 
 1. Data Input: Users can input text or a URL to encode.
