@@ -1,6 +1,6 @@
 # Task 2:-  Passwords generator
 
-# Password Generator Features
+### Password Generator Features
 
 1. Customizable Length: Users specify the password length.
 2. Character Sets: Uses lowercase, uppercase, digits, and symbols.
@@ -10,7 +10,7 @@
 
 # Task 4:-  Hangman game
 
-# Hangman Game Features
+### Hangman Game Features
 
 1. Word Selection: Randomly selects a word from a predefined list.
 2. Hangman Figures: Displays hangman stages as the game progresses.
